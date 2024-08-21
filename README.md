@@ -1,3 +1,5 @@
+https://www.msn.cn/zh-cn/news/other/iscsi-or-smb-%E4%B8%80%E8%B5%B7%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AAiscsi%E6%9C%8D%E5%8A%A1%E7%AB%AF-%E5%B0%86nas%E7%A9%BA%E9%97%B4%E6%8C%82%E8%BD%BD%E6%88%90%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%B5%E8%84%91%E7%A1%AC%E7%9B%98/ar-AA1p1bqN?ocid=BingHp01&cvid=83686bd1d63447cda341d474f4fbb1a5&ei=133
+
 # iscsi-docker
 tgt in docker，基于[fujita/tgt](https://github.com/wtnb75/docker-stgt)和[wtnb75/docker-stgt](https://github.com/fujita/tgt)将配置融入到启动脚本，直接通过环境变量即可进行target配置，无需执行脚本
 ```
